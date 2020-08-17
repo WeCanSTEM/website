@@ -1,0 +1,227 @@
+html, body, table, td, td, #headnav {
+  font-family: 'Be Vietnam', sans-serif;
+  padding:0%;
+  margin:0%;
+}
+#head, #headnav {
+  background-image: url('homeback.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+}
+#titletd {
+    color:#192052;
+    padding-top:1.2rem;
+    padding-left:1.2rem;
+    font-size: 1.2rem;
+}
+#nav, #nav1 {
+  float:right;
+  font-size: 1.2rem;
+  text-decoration:none;
+  color:#192052;
+  padding-left:1.5rem;
+  padding-top:1.2rem;
+  padding-right:1.2rem;
+}
+#nav1 {
+  padding-left:10rem;
+  float:right;
+  padding-right:0%;
+  margin-right:0%;
+}
+#headh1 {
+  font-size:3rem;
+  color:#192052;
+  padding-bottom:0%;
+  margin-bottom:0%;
+  padding-left:2rem;
+  padding-top:5rem;
+
+}
+#headp {
+  font-size:1.5rem;
+  color:#192052;
+  padding-top:0%;
+  margin-top:0%;
+  padding-left:2rem;
+  padding-bottom:9.5rem;
+}
+#abouth1 {
+  color:#192052;
+  float:right;
+  padding-bottom:0%;
+  margin-bottom:0%;
+  padding-right:3rem;
+}
+#aboutp {
+  color:#192052;
+  float:right;
+  padding-top:0%;
+  margin-top:0%;
+  padding-bottom:0%;
+  margin-bottom:0%;
+  padding-right:3rem;
+}
+#aboutcir {
+  width:500px;
+  height:auto;
+}
+#ourteam {
+  color:#192052;
+  font-size:2rem;
+}
+#teamimg {
+  float:center;
+  width:100px;
+  height:auto;
+  padding:0%;
+  margin:0%;
+}
+#teamimg:hover {
+  width:120px;
+  height:auto;
+}
+#teamh4 {
+  padding:0%;
+  margin:0%;
+}
+#teamp {
+  padding:0%;
+  margin:0%;
+}
+#reachhead {
+  padding-top:1.5rem;
+  font-size:3rem;
+  color:#192052;
+}
+#reachh1 {
+  font-size:2rem;
+  color:#192052;
+    padding-left:2rem;
+    padding-bottom:0%;
+    margin-bottom:0%;
+}
+#reachh1:hover {
+  font-size:2.5rem;
+}
+#reachp {
+  padding-left:2rem;
+  padding-top:0%;
+  margin-top:0%;
+  color:#192052;
+  padding-bottom:1.5rem;
+}
+#Mailh1 {
+  padding-top:2rem;
+ font-size:1.5rem;
+  color:#192052;
+  padding-bottom:0%;
+  margin-bottom:0%;
+}
+#Mailp {
+  padding-top:0%;
+  margin-top:0%;
+  color:#192052;
+}
+#mailbutton {
+  padding-top:0%;
+  margin-top:0%;
+  color:#e3effb;
+  margin-bottom:2rem;
+  background-color:#192052;
+  border-color:#192052;
+}
+#imgint {
+  width:50%;
+  height:auto;
+}
+/*ARTICLES.HTML*/
+#copyrighted {
+padding-top:5%;
+}
+#arthomeh1 {
+  padding-top:3%;
+  margin:0;
+}
+#arthomep {
+  padding-bottom:1%;
+}
+#evaimg {
+  padding-top:0%;
+  width:50%;
+  height:50%;
+}
+#QA {
+  padding-left:1%;
+  margin:0;
+}
+#evaicon {
+  width:10%;
+  height:10%;
+  padding:0;
+  margin:0;
+}
+#evah1 {
+  padding:0;
+  margin:0;
+  padding-left:1%;
+}
+#evap1 {
+  padding-left:2%;
+  padding-bottom:0%;
+  margin:0%;
+}
+#evap2 {
+  padding-bottom:2%;
+  margin:0%;
+  padding-left:2%;
+}
+#particle {
+  padding-top:0;
+  padding-left:5%;
+  padding-right:5%;
+}
+#instalink {
+  font-size:1rem;
+  color:black;
+  text-decoration:none;
+}
+#linkbottompage {
+  padding-left:5%;
+  padding-bottom:0%;
+  padding-top:0%;
+  margin-bottom:0%;
+   margin-top:0%;
+}
+#arth1 {
+  padding-top:2rem;
+ font-size:2rem;
+  color:#192052;
+  padding-bottom:0%;
+  margin-bottom:0%;
+}
+#artp {
+  padding-top:0%;
+  margin-top:0%;
+  color:#192052;
+}
+.mono {
+  color:#192052;
+  padding-bottom:0%;
+  margin-bottom:0%;
+}
+#made {
+  text-decoration: none;
+  color:#192052;
+  padding-top:0%;
+  margin-top:0%;
+}
+a {
+  text-decoration: none;
+  color:#192052;
+}
+#footsoc {
+  padding-top:1.2rem;
+  width:35px;
+  height:auto;
+}
