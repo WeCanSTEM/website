@@ -1,7 +1,5 @@
 <!doctype html>
 <html>
-<!--this is the "extra components" and the website title-->
-
 	<head>
 		<title>We Can</title>
 		<link href="mobile.css" rel="stylesheet" type=text/css />
@@ -13,26 +11,26 @@
 		<meta name="HandheldFriendly" content="true">
 
 		<script>
-		window.addEventListener("resize", getTemplate);
+						window.addEventListener("resize", getTemplate);
 
-CurrentPage = 'mobile.html';
+				CurrentPage = 'mobile.html';
 
-window.addEventListener("resize", getTemplate);
+				window.addEventListener("resize", getTemplate);
 
-CurrentPage = 'MobilePage';
+				CurrentPage = 'MobilePage';
 
-function getTemplate() {
-		if (screen.width >= 767 && CurrentPage != 'MobilePage') {
-				return window.location.replace("mobile.html");
-		}
+				function getTemplate() {
+						if (screen.width >= 767 && CurrentPage != 'MobilePage') {
+								return window.location.replace("mobile.html");
+						}
 
-	 	else (screen.width < 767 && CurrentPage != 'DesktopPage') {
-				return window.location.replace("index.html");
-		}
-}
+					 	else (screen.width < 767 && CurrentPage != 'DesktopPage') {
+								return window.location.replace("index.html");
+						}
+				}
 
-getTemplate();
-</script>
+				getTemplate();
+	</script>
 </head>
       <style>
 /* Style The Dropdown Button */
@@ -40,7 +38,7 @@ getTemplate();
   background-color: #ffffff;
   color: #333;
   padding: 16px;
-  font-size: 16px;
+  font-size: 2rem;
   border: none;
   cursor: pointer;
 }
@@ -177,7 +175,7 @@ float:right;
 				<td style="padding:50px;">
 					<center>
 					<img id="teamimg" src="anusha.jpg">
-					<h4 id="teamh4">Anusha</h4>
+					<h4 id="teamh4">Anusha Banninthaya</h4>
 					<p id="teamp">Writer</p>
 				</center>
 				</td>

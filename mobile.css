@@ -45,10 +45,6 @@ body, html, table, img, tr, td, a, button, #head {
   padding:0%;
   margin:0%;
 }
-#teamimg:hover {
-  width:120px;
-  height:auto;
-}
 #teamh4 {
   padding:0%;
   margin:0%;
@@ -71,9 +67,6 @@ body, html, table, img, tr, td, a, button, #head {
     padding-left:2rem;
     padding-bottom:0%;
     margin-bottom:0%;
-}
-#reachh1:hover {
-  font-size:2.5rem;
 }
 #reachp {
   padding-left:2rem;
